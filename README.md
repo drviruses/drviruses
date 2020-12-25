@@ -29,7 +29,7 @@
   <img height="130em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=drviruses&repo=Path-Visualizer&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 <a href="https://github.com/drviruses/codeforcesUserProblem">
-  <img height="130em" width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=drviruses&repo=codeforcesUserProblem&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img height="130em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=drviruses&repo=codeforcesUserProblem&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 </p>
 
