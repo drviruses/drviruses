@@ -20,10 +20,10 @@
 
 <p align="left">
 <a href="https://github.com/drviruses/newtab">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=drviruses&repo=newtab&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img height="130em" width = "400em" src="https://github-readme-stats.vercel.app/api/pin/?username=drviruses&repo=newtab&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 <a href="https://github.com/drviruses/find_name_email_excel">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=drviruses&repo=find_name_email_excel&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img height="130em" width ="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=drviruses&repo=find_name_email_excel&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 <a href="https://github.com/drviruses/Path-Visualizer">
   <img height="130em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=drviruses&repo=Path-Visualizer&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
