@@ -89,7 +89,6 @@
   </br>
       <img align="center" alt="GIF" src="https://github.com/drviruses/drviruses/blob/master/assests/monkey1.gif?raw=true" width="750" height="520" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman2457&show_icons=true" alt="aman2457" /></p>
 [github]: https://github.com/drviruses
 [hackerrank]: https://www.hackerrank.com/dr_virus
 [codeforces]: https://codeforces.com/profile/dr_virus
@@ -106,3 +105,7 @@
 [c]: https://devdocs.io/c/
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.
 [html]: https://devdocs.io/html/
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman2457&show_icons=true" alt="aman2457" /></p>
