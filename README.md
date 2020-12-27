@@ -86,7 +86,6 @@
 <p align="center"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/drviruses/count.svg" />
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=drviruses&show_icons=true" alt="drviruses" /></p>
   
   </br>
       <img align="center" alt="GIF" src="https://github.com/drviruses/drviruses/blob/master/assests/monkey1.gif?raw=true" width="750" height="520" />
