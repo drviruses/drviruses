@@ -1,4 +1,4 @@
-## Hi there, I'm Amit Kumar -  [Amit Kumar][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h2> ## Hi there, I'm Amit Kumar - [Amit Kumar][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-76310b16a/)
 
@@ -86,10 +86,10 @@
 <p align="center"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/drviruses/count.svg" />
-  
   </br>
       <img align="center" alt="GIF" src="https://github.com/drviruses/drviruses/blob/master/assests/monkey1.gif?raw=true" width="750" height="520" />
 </p>
+
 [github]: https://github.com/drviruses
 [hackerrank]: https://www.hackerrank.com/dr_virus
 [codeforces]: https://codeforces.com/profile/dr_virus
