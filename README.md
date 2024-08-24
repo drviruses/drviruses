@@ -8,11 +8,36 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 - 📈 I'm a Competitive Programmer!
-- 💻 I am a 3rd year computer science undergrad at Lovely Professional University.
-- 🔭 Currently busy in developing Google Chrome Extension.
-- 🌱 I’m currently learning to learn.
-- 🥅 API's are fun, i like to play with twitter,youtube Apis.
+- 💻 I am a Software Engineer at Lowe's India with experience in developing backend services and secure payment processing using the Micronaut Java framework.
+- 🔭 Currently working on building and optimizing backend services, including secure payment processing and API gateway migrations.
+- 🌱 Always learning and adapting to new technologies.
+- 🥅 APIs are fascinating, and I enjoy working with platforms like Twitter and YouTube.
+- ⚡ Constantly exploring new tools and techniques to stay ahead in the tech world.
 - ⚡ Learning something new everyday keps my dopamine levels high.
+
+💼 Professional Experience
+Lowe's India
+Software Engineer
+May 2024 - Present
+
+Backend Service Development: Architected and implemented backend services using Micronaut for secure payment transactions.
+Secure Payment Processing: Developed a secure form for encrypted payment details, ensuring PCI compliance.
+Data Security: Applied PII encryption techniques to safeguard customer data in Redis.
+Performance Optimization: Enhanced system performance through connection pooling and Netty thread utilization.
+API Gateway Migration: Successfully transitioned services from Apigee to Kong for improved API management.
+Associate Software Engineer
+Jun 2022 - May 2024
+
+Backend for Frontend (BFF) Development: Created the BFF layer using Micronaut, designing APIs for seamless UI interactions.
+API Design and Development: Developed endpoints to aggregate data from microservices for UI presentation.
+Collaboration: Worked closely with UI developers to ensure effective API design and deployment.
+Technical Expertise: Gained significant experience in Java and Micronaut for scalable backend systems.
+MAQ Software
+Associate Software Engineer (Internship)
+Mar 2021 - Mar 2022
+
+NLP Project: Contributed to a project for shortlisting critical emails, handling up to 2 million records monthly.
+Power BI Embedding: Implemented features for data analysis within customer web applications.
 
 ---
 
